@@ -66,7 +66,8 @@
 | Pin 2 (Middle) | LCD V0 / VEE |
 | Pin 3 (Right) | GND |
 
-**Note:** The potentiometer is used to adjust the LCD contrast.
+<br>
+<img width="400" height="326" alt="POT" src="https://github.com/user-attachments/assets/7c6d04e5-f5ef-4258-ac9b-f86d1400df91" />
 
 ---
 
